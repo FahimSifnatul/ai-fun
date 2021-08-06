@@ -1,0 +1,57 @@
+body{
+	width: 100vw;
+	height: 100vh;
+
+	background: linear-gradient(to bottom, #ffffff 0%, #ff6600 100%);
+	background-size: 100vw 100vh;
+}
+
+#input_card, #output_card{
+	background: linear-gradient(to bottom, #ff6600 0%, white 100%);
+	box-shadow: 0 0 15px 0 black;
+}
+
+
+#input_card_body{
+	height: 50vh;
+}
+
+#submit{
+	background-color: #ff6600;
+	color: white;
+}
+#submit:hover{
+	background-color: white;
+	color: #ff6600;
+	box-shadow: 0 0 0 3px #ff6600;
+}
+
+#input_card_header:hover{
+	text-shadow: 5px 5px 3px black;
+}
+
+#image_to_text_preview{
+	width: 300px;
+	height: 40vh;
+
+	background-image: url('/static/images/no_preview.jpg');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+
+li:hover{
+	text-shadow: 5px 5px 3px black;
+}
+
+@keyframes flip-forward{
+	from{transform: rotateY(0deg);};
+	to{transform: rotateY(180deg)};
+}
+@keyframes flip-backward{
+	from{transform: rotateY(180deg);};
+	to{transform: rotateY(0deg)};
+}
+
+#input_output_card{
+	perspective: 750vh;
+}

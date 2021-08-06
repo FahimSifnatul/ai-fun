@@ -1,0 +1,86 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Python Funplay!! - play with python</title>
+  <!-- title bar logo -->
+  <link rel="shortcut icon" href="{% static 'images/logo.png' %}">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Last checked - 25th July, 2021 -->
+  <!-- jquery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <!-- popper.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.9.2/umd/popper.min.js"></script>
+  <!-- bootstrap 4 css-->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+  <!-- bootstrap 4 js-->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  
+  <!-- custom links & scripts -->
+  <link rel="stylesheet" href="{% static 'css/main.css' %}">
+  <script src="{% static 'js/main.js' %}"></script>
+</head>
+
+<body>
+  <!-- Website Logo -->
+  <div class="d-flex justify-content-center">
+    <img src="{% static 'images/logo.png' %}" width="350" height="150">
+  </div>
+
+  <!-- Web Contents -->
+  <div id="input_output_card" class="container-fluid card-deck mx-auto">
+    
+    <!-- left card - menu/input card (front) -->
+    <div id="input_card" class="card border border-dark">
+
+      <!-- card header -->
+      <div id="input_card_header" class="card-header text-light font-weight-bold text-center" style="backface-visibility:hidden;">Click to see options</div>
+      
+
+      <!-- card body -->
+      <div id="input_card_body" class="card-body" style="backface-visibility:hidden;">
+
+        <!-- Image to Text -->
+        <div id="image_to_text" style="backface-visibility:hidden;">
+          <div id="image_to_text_preview" class="rounded-lg mx-auto"></div>
+          <input id="image_to_text_image" class="form-control-file mx-auto" style="width:300px;" type="file" name="image_to_text_image">
+        </div>
+
+        <!-- Input card (back)-->
+        <div id="input_card_back" class="card-body border border-dark" style="transform:rotateY(180deg);backface-visibility:hidden;">
+          <!-- Options -->
+          <ul class="d-flex justify-content-center align-content-center">
+            <li id="option_image_to_text" class="text-light">Image to Text</li>
+            <li id="option_root_of_linear_eq">Root of Linear eq</li>
+          </ul>
+        </div>
+
+      </div>
+
+
+      <!-- card footer -->
+      <div id="input_card_footer" class="card-footer" style="backface-visibility:hidden;">
+        <button id="submit" class="btn float-right" type="submit">Submit</button>
+      </div>
+    </div>
+
+
+    <!-- right card - output card -->
+    <div id="output_card" class="card border border-dark">
+      <div id="output_card_body" class="card-body">
+        
+      </div>
+    </div>
+
+  </div>
+
+</body>
+
+</html>
