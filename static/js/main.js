@@ -1,5 +1,6 @@
 
 $(document).ready(function(){
+	var present_menu = "menu";
 
 	// To preview image_to_text image
 	$("#image_to_text_image").change(function(){
@@ -13,12 +14,10 @@ $(document).ready(function(){
     	reader.readAsDataURL(file);
 	});
 
-	// clicking input card header
-	$("#input_card_header").click(function(){
-		$("#input_card").css({"animation" : "flip-forward 3s forwards"});
-		$("#input_card_header").css({"animation" : "flip-forward 3s forwards"});
-		$("#input_card_body").css({"animation" : "flip-forward 3s forwards"});
-		$("#input_card_footer").css({"animation" : "flip-forward 3s forwards"});
-		//$("#input_card_back").css({"animation" : "flip-backward 3s forwards"});
+	// clicking menu items
+	$("#menu_image_to_text").click(function(){
+		present_menu = "image_to_text";
+		$("#menu").html("Image to Text");
+		$("#image_to_text").show();
 	});
 })
