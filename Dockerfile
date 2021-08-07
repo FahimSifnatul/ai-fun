@@ -1,6 +1,6 @@
 FROM python:3.8-slim-buster
-WORKDIR /puthon_funplay
+WORKDIR /python_funplay
 COPY requirements.txt requirements.txt
 RUN pip install -r requirements.txt
-RUN python manage.py collectstatic
+RUN python /python_funplay/manage.py collectstatic
 COPY . .
