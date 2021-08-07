@@ -1,4 +1,5 @@
 Django==3.2.4
+whitenoise
 mpmath
 numpy
 sympy
