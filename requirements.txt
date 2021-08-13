@@ -1,5 +1,6 @@
 Django==3.2.4
 djangorestframework
+django-crispy-forms
 whitenoise
 mpmath
 numpy
