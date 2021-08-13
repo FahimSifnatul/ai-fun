@@ -15,7 +15,7 @@ from .forms import ImageToTextForm
 from .models import ImageToText
 
 # output generator function
-#from .output_generators import convert_image_to_text
+from .output_generators import convert_image_to_text
 
 
 # Create your views here.
