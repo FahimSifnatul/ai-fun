@@ -1,4 +1,4 @@
-const menu_list  = ["image_to_text", "root_of_linear_eq"];
+const menu_list  = ["image_to_text", "roots_of_polynomial_eq"];
 
 // custom delay function
 function delay(ms) {
@@ -12,7 +12,13 @@ function SET(selected_menu)
 	{
 		if(menu != selected_menu)
 		{
-			$("#"+menu).hide();
+			$("#input_"+menu).hide();
+			$("#output_"+menu).hide();
+		}
+		else
+		{
+			$("#input_"+menu).show();
+			$("#output_"+menu).show();
 		}
 	}
 
@@ -21,10 +27,10 @@ function SET(selected_menu)
 	{
 		$("#menu").html("Image to Text");
 	} 
-	else if(selected_menu == "root_of_linear_eq") $("#menu").html("Root of Linear eq");
-	
-	// To show selected menu content
-	$("#"+selected_menu).show();
+	else if(selected_menu == "roots_of_polynomial_eq")
+	{
+		$("#menu").html("Roots of Polynomial Eq");
+	}
 	return 0;
 }
 
@@ -32,14 +38,14 @@ function SET(selected_menu)
 $(document).ready(function(){
 
 	// To preview image_to_text image
-	$("#id_image_to_text").change(function(){
+	$("#image_to_text_image").change(function(){
 		
 		let reader = new FileReader();	
 		reader.onload = function () {
         	let dataURL = reader.result;
         	$("#image_to_text_preview").attr("src", dataURL);
     	}
-    	let file = $("#id_image_to_text").prop("files")[0];
+    	let file = $("#image_to_text_image").prop("files")[0];
     	reader.readAsDataURL(file);
 	});
 

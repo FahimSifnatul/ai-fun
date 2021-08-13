@@ -8,18 +8,21 @@ from pathlib import Path
 from secrets import token_hex
 
 # customs forms
-from .forms import ImageToTextForm
+from .forms import ImageToTextForm, RootsOfPolynomialEqForm
 
 # custom models
 from .models import ImageToText
 
 # output generator function
-from .output_generators import convert_image_to_text
+from .output_generators import convert_image_to_text, find_roots_of_polynomial_eq
 
 # Create your views here.
 class Home(APIView):
 	def get(self, request, *args, **kwargs):
-		context = {'form_image_to_text' : ImageToTextForm()}
+		context = {
+			'form_image_to_text' : ImageToTextForm(),
+			'form_roots_of_polynomial_eq' : RootsOfPolynomialEqForm(),
+		}
 		return render(request, 'index.html', context)
 
 
@@ -38,9 +41,24 @@ class Home(APIView):
 			# To remove image as output is generated already
 			image_path.unlink()
 
-			renderer_classes = [TemplateHTMLRenderer]
 			context = {}
 			context['image_to_text'] = 'true'
 			context['image_to_text_text'] = text
+
 			context['form_image_to_text'] = ImageToTextForm()
+			context['form_roots_of_polynomial_eq'] = RootsOfPolynomialEqForm()
+
+			return render(request, 'index.html', context)
+
+
+		elif 'roots_of_polynomial_eq' in request.POST:
+			eq = request.POST['roots_of_polynomial_eq']
+
+			context = {}
+			context['roots_of_polynomial_eq'] = 'true'
+			context['roots'] = find_roots_of_polynomial_eq(eq)
+
+			context['form_image_to_text'] = ImageToTextForm()
+			context['form_roots_of_polynomial_eq'] = RootsOfPolynomialEqForm()
+
 			return render(request, 'index.html', context)

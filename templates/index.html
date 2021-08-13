@@ -49,8 +49,8 @@
           <div class="dropdown text-center">
             <button id="menu" type="button" class="btn btn-warning dropdown-toggle" data-toggle="dropdown">Menu</button>
             <div class="dropdown-menu">
-              <a id="menu_image_to_text" class="dropdown-item" onclick="SET('image_to_text')" href="#">Image to Text</a>
-              <a id="menu_root_of_linear_eq" class="dropdown-item" onclick="SET('root_of_linear_eq')" href="#">Root of Linear eq</a>
+              <span id="menu_image_to_text" class="dropdown-item" onclick="SET('image_to_text')">Image to Text</span>
+              <span id="menu_roots_of_polynomial_eq" class="dropdown-item" onclick="SET('roots_of_polynomial_eq')">Roots of Polynomial eq</span>
             </div>
           </div>
         </div>
@@ -60,7 +60,7 @@
         <div id="input_card_body" class="card-body overflow-auto d-flex justify-content-center">
           
           <!-- image to text -->
-          <div id="image_to_text">
+          <div id="input_image_to_text">
             <div class="form-group" style="width:250px;height:250px;">
               <img id="image_to_text_preview" class="rounded-lg" src="{% static 'images/no_preview.jpg' %}" width="250" height="250">
             </div>
@@ -69,7 +69,19 @@
                 {{form_image_to_text.image_to_text}}
               </div>
               <div class="form-group">
-                <input id="submit" class="btn" type="submit" value="submit">
+                <input class="btn" type="submit" value="submit">
+              </div>
+            </form>
+          </div>
+
+          <!-- Roots of Polynomial Equation -->
+          <div id="input_roots_of_polynomial_eq" style="display: none;">
+            <form id="form_roots_of_polynomial_eq" class="form-inline" method="POST" name="form_roots_of_polynomial_eq"> {% csrf_token %}
+              <div class="input-group">
+                {{form_roots_of_polynomial_eq.roots_of_polynomial_eq}}
+                <div class="input-group-append">
+                  <input class="btn" type="submit" value="submit">
+                </div>
               </div>
             </form>
           </div>
@@ -88,8 +100,13 @@
         <div id="output_card_body" class="card-body overflow-auto">
           
           <!-- Image to Text output -->
-          <div id="image_to_text">
+          <div id="output_image_to_text">
             <textarea id="image_to_text_text" class="form-control" rows="12"></textarea>
+          </div>  
+
+          <!-- Roots of Polynomial Eq -->
+          <div id="output_roots_of_polynomial_eq" style="display: none;">
+            <textarea id="roots" class="form-control" rows="12"></textarea>
           </div>  
         </div>
         
@@ -108,6 +125,13 @@
 
     var image_to_text_text = "{{image_to_text_text}}";
     $("#image_to_text_text").html(image_to_text_text);
+  </script>
+{% elif roots_of_polynomial_eq %}
+  <script>
+    SET('roots_of_polynomial_eq');
+
+    var roots = "{{roots}}";
+    $("#roots").html(roots);
   </script>
 {% endif %}
 </html>
