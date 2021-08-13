@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 build:
   docker:
     web: Dockerfile
 run:
   web: python3 manage.py runserver 0.0.0.0:$PORT
-=======
-build:
-  docker:
-    web: Dockerfile
-run:
-  web: python3 manage.py runserver 0.0.0.0:$PORT
->>>>>>> 444e18a946ec3f40537038532449e07b5c91f89b

@@ -1,8 +1,6 @@
 Django==3.2.4
-<<<<<<< HEAD
 djangorestframework
-=======
->>>>>>> 444e18a946ec3f40537038532449e07b5c91f89b
+django-crispy-forms
 whitenoise
 mpmath
 numpy

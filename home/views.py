@@ -16,7 +16,6 @@ from .models import ImageToText
 # output generator function
 from .output_generators import convert_image_to_text
 
-
 # Create your views here.
 class Home(APIView):
 	def get(self, request, *args, **kwargs):
