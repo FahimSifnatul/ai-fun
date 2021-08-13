@@ -32,14 +32,14 @@ function SET(selected_menu)
 $(document).ready(function(){
 
 	// To preview image_to_text image
-	$("#image_to_text_image").change(function(){
+	$("#id_image_to_text").change(function(){
 		
 		let reader = new FileReader();	
 		reader.onload = function () {
         	let dataURL = reader.result;
         	$("#image_to_text_preview").attr("src", dataURL);
     	}
-    	let file = $("#image_to_text_image").prop("files")[0];
+    	let file = $("#id_image_to_text").prop("files")[0];
     	reader.readAsDataURL(file);
 	});
 

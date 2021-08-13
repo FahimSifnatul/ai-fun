@@ -25,10 +25,10 @@
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  
+
   <!-- custom links & scripts -->
-  <link rel="stylesheet" href="{% static 'css/main.css' %}">
   <script src="{% static 'js/main.js' %}"></script>
+  <link rel="stylesheet" href="{% static 'css/main.css' %}">  
 </head>
 
 <body>
@@ -61,8 +61,8 @@
           
           <!-- image to text -->
           <div id="image_to_text">
-            <div class="form-group rounded-lg" style="width:250px;height:250px;">
-              <img id="image_to_text_preview" src="{% static 'images/no_preview.jpg' %}" width="250" height="250">
+            <div class="form-group" style="width:250px;height:250px;">
+              <img id="image_to_text_preview" class="rounded-lg" src="{% static 'images/no_preview.jpg' %}" width="250" height="250">
             </div>
             <form id="form_image_to_text" method="POST" name="form_image_to_text" enctype="multipart/form-data"> {% csrf_token %}
               <div class="form-group">
