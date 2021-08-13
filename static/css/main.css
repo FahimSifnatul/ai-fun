@@ -8,15 +8,14 @@ body{
 	height: 10vh;
 }
 .card-body{
-	height: 50vh;
+	height: 60vh;
 	width: 100%;
 }
 
-#input_card, #input_card, #output_card{
+#input_card, #output_card{
 	background: linear-gradient(to bottom, #ff6600 0%, white 100%);
 	box-shadow: 0 0 15px 0 black;
 	top: 1vh;
-	backface-visibility: hidden;
 }
 
 #input_card_front, #input_card_back{
@@ -26,10 +25,6 @@ body{
 #image_to_text_preview{
 	width: 250px;
 	height: 250px;
-	
-	background-image: url('/static/images/no_preview.jpg');
-	background-size: 100% 100%;
-	background-repeat: no-repeat;
 }
 
 #submit{

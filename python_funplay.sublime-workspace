@@ -1,0 +1,1295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"form",
+				"form_api"
+			],
+			[
+				"vie",
+				"viewsets"
+			],
+			[
+				"for",
+				"form_api"
+			],
+			[
+				"JS",
+				"JsonResponse"
+			],
+			[
+				"render",
+				"renderer_classes"
+			],
+			[
+				"Res",
+				"Response"
+			],
+			[
+				"re",
+				"renderers"
+			],
+			[
+				"T",
+				"TestingSerializer"
+			],
+			[
+				"rout",
+				"router"
+			],
+			[
+				"s",
+				"SimpleRouter"
+			],
+			[
+				"r",
+				"routers"
+			],
+			[
+				"V",
+				"ViewSet"
+			],
+			[
+				"view",
+				"viewsets"
+			],
+			[
+				"v",
+				"viewsets"
+			],
+			[
+				"clea",
+				"cleaned_data"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			],
+			[
+				"Te",
+				"TextInput"
+			],
+			[
+				"Fo",
+				"Forms"
+			],
+			[
+				"im",
+				"image_to_text_image"
+			],
+			[
+				"image",
+				"image_to_text_image"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"ima",
+				"image_to_text_image"
+			],
+			[
+				"input",
+				"input_to_text_image"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"image_to",
+				"image_to_text_form"
+			],
+			[
+				"imag",
+				"image_to_text_form"
+			],
+			[
+				"pre",
+				"present_menu"
+			],
+			[
+				"P",
+				"PresentMenu"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"card-",
+				"card-footer"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"d",
+				"d-flex"
+			],
+			[
+				"ro",
+				"rotateY()"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"card",
+				"card-body"
+			],
+			[
+				"cont",
+				"container-fluid"
+			],
+			[
+				"car",
+				"card-header"
+			],
+			[
+				"rotat",
+				"rotateY()"
+			],
+			[
+				"bo",
+				"border-0"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"image_t",
+				"image_to_text_preview"
+			],
+			[
+				"rotate",
+				"rotateY()"
+			],
+			[
+				"back",
+				"backface-visibility"
+			],
+			[
+				"inpu",
+				"input_card_back_back"
+			],
+			[
+				"rot",
+				"rotateY()"
+			],
+			[
+				"input_card_",
+				"input_card_footer"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"image_to_",
+				"image_to_text_image"
+			],
+			[
+				"input_",
+				"input_card_header"
+			],
+			[
+				"outpu",
+				"output_card"
+			],
+			[
+				"Hom",
+				"Home.as_view"
+			],
+			[
+				"U",
+				"UserVerification"
+			],
+			[
+				"ver",
+				"verificaton_url"
+			],
+			[
+				"sign",
+				"sign_in_nav_link"
+			],
+			[
+				"form_",
+				"form_sign_up"
+			],
+			[
+				"new",
+				"new_username"
+			],
+			[
+				"ret",
+				"returnValue"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"form_sign_up_",
+				"form_sign_up_error"
+			],
+			[
+				"new_",
+				"new_password"
+			],
+			[
+				"retur",
+				"returnValue"
+			],
+			[
+				"form_sign_in_",
+				"form_sign_in_error"
+			],
+			[
+				"form_sig",
+				"form_sign_in"
+			],
+			[
+				"modal",
+				"modal_signin_signup"
+			],
+			[
+				"user",
+				"user_exists"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"A",
+				"Account"
+			],
+			[
+				"co",
+				"connection"
+			],
+			[
+				"sig",
+				"sign_up"
+			],
+			[
+				"data",
+				"data-toggle"
+			],
+			[
+				"cop",
+				"copy_to_clipboard"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"te",
+				"text-shadow"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"sho",
+				"shortened_url"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"rou",
+				"rounded"
+			],
+			[
+				"shor",
+				"shortened_url"
+			],
+			[
+				"shorten",
+				"shortened_url"
+			],
+			[
+				"Short",
+				"ShortenedURL"
+			],
+			[
+				"SH",
+				"ShortenedURL"
+			],
+			[
+				"to",
+				"token_urlsafe"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ea",
+				"linear"
+			],
+			[
+				"inf",
+				"infinite"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"whi",
+				"ghostwhite"
+			],
+			[
+				"fo",
+				"font-color-change"
+			],
+			[
+				"syt",
+				"style"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"DATAB",
+				"DATABASE"
+			],
+			[
+				"requi",
+				"requirements.txt"
+			],
+			[
+				"de",
+				"detected_shape_index"
+			],
+			[
+				"dete",
+				"detected_shape_index"
+			],
+			[
+				"detec",
+				"detected_shape"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"detect",
+				"detected_shape"
+			],
+			[
+				"fu",
+				"full-size"
+			],
+			[
+				"righ",
+				"right_page_id"
+			],
+			[
+				"right",
+				"right_page"
+			],
+			[
+				"las",
+				"last_page_no"
+			],
+			[
+				"new_memory_fo",
+				"new_memory_form_submit"
+			],
+			[
+				"m",
+				"memory"
+			],
+			[
+				"M",
+				"Memories"
+			],
+			[
+				"ne",
+				"new_memory_form"
+			],
+			[
+				"ri",
+				"right_page_"
+			],
+			[
+				"cs",
+				"csrftoken"
+			],
+			[
+				"page",
+				"pages_length"
+			],
+			[
+				"le",
+				"left_page"
+			],
+			[
+				"lightgre",
+				"lightgreen"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"lig",
+				"lightgreen"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"log",
+				"login_form"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "python_funplay/settings.py",
+			"settings":
+			{
+				"buffer_size": 3630,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAALAEAAAAAAAAsQQAAAAAAAAAAAAAsQQAAAAAAAC1BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsAQAAAAAAACwBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAALUEAAAAAAAAtwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtQQAAAAAAAC1BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "crip"
+					},
+					"BAAAALYEAAAAAAAAtwQAAAAAAAAAAAAAtwQAAAAAAAC4BAAAAAAAAAAAAAC4BAAAAAAAALkEAAAAAAAAAAAAALkEAAAAAAAAugQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtgQAAAAAAAC2BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAALkEAAAAAAAAuQQAAAAAAAABAAAAcA",
+					"AQAAAAAAAAABAAAAugQAAAAAAAC6BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "spy_for"
+					},
+					"BwAAALkEAAAAAAAAugQAAAAAAAAAAAAAugQAAAAAAAC7BAAAAAAAAAAAAAC7BAAAAAAAALwEAAAAAAAAAAAAALwEAAAAAAAAvQQAAAAAAAAAAAAAvQQAAAAAAAC+BAAAAAAAAAAAAAC+BAAAAAAAAL8EAAAAAAAAAAAAAL8EAAAAAAAAwAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuQQAAAAAAAC5BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "ms"
+					},
+					"AgAAAMAEAAAAAAAAwQQAAAAAAAAAAAAAwQQAAAAAAADCBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwAQAAAAAAADABAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAMMEAAAAAAAAxAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwwQAAAAAAADDBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "\nfrom"
+					},
+					"BQAAAFMBAAAAAAAAVAEAAAAAAAAAAAAAVAEAAAAAAABVAQAAAAAAAAAAAABVAQAAAAAAAFYBAAAAAAAAAAAAAFYBAAAAAAAAVwEAAAAAAAAAAAAAVwEAAAAAAABYAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUwEAAAAAAABTAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFgBAAAAAAAAWQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAEAAAAAAABYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert_completion",
+					{
+						"completion": "django",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": true,
+						"trigger": "django"
+					},
+					"AQAAAFkBAAAAAAAAXwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQEAAAAAAABZAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": " import"
+					},
+					"BwAAAF8BAAAAAAAAYAEAAAAAAAAAAAAAYAEAAAAAAABhAQAAAAAAAAAAAABhAQAAAAAAAGIBAAAAAAAAAAAAAGIBAAAAAAAAYwEAAAAAAAAAAAAAYwEAAAAAAABkAQAAAAAAAAAAAABkAQAAAAAAAGUBAAAAAAAAAAAAAGUBAAAAAAAAZgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXwEAAAAAAABfAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAGYBAAAAAAAAZwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZgEAAAAAAABmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					18,
+					"left_delete",
+					null,
+					"EgAAAGYBAAAAAAAAZgEAAAAAAAABAAAAIGUBAAAAAAAAZQEAAAAAAAABAAAAdGQBAAAAAAAAZAEAAAAAAAABAAAAcmMBAAAAAAAAYwEAAAAAAAABAAAAb2IBAAAAAAAAYgEAAAAAAAABAAAAcGEBAAAAAAAAYQEAAAAAAAABAAAAbWABAAAAAAAAYAEAAAAAAAABAAAAaV8BAAAAAAAAXwEAAAAAAAABAAAAIF4BAAAAAAAAXgEAAAAAAAABAAAAb10BAAAAAAAAXQEAAAAAAAABAAAAZ1wBAAAAAAAAXAEAAAAAAAABAAAAblsBAAAAAAAAWwEAAAAAAAABAAAAYVoBAAAAAAAAWgEAAAAAAAABAAAAalkBAAAAAAAAWQEAAAAAAAABAAAAZFgBAAAAAAAAWAEAAAAAAAABAAAAIFcBAAAAAAAAVwEAAAAAAAABAAAAbVYBAAAAAAAAVgEAAAAAAAABAAAAb1UBAAAAAAAAVQEAAAAAAAABAAAAcg",
+					"AQAAAAAAAAABAAAAZwEAAAAAAABnAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					2,
+					"left_delete",
+					null,
+					"AgAAAFQBAAAAAAAAVAEAAAAAAAABAAAAZlMBAAAAAAAAUwEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAVQEAAAAAAABVAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "python_funplay/urls.py",
+			"settings":
+			{
+				"buffer_size": 842,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/index.html",
+			"settings":
+			{
+				"buffer_size": 3803,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAABEAAAAAAAAAEgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQAAAAAAAAARAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "ASDF"
+					},
+					"BAAAABIAAAAAAAAAEwAAAAAAAAAAAAAAEwAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABUAAAAAAAAAAAAAABUAAAAAAAAAFgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					4,
+					"left_delete",
+					null,
+					"BAAAABUAAAAAAAAAFQAAAAAAAAABAAAARhQAAAAAAAAAFAAAAAAAAAABAAAARBMAAAAAAAAAEwAAAAAAAAABAAAAUxIAAAAAAAAAEgAAAAAAAAABAAAAQQ",
+					"AQAAAAAAAAABAAAAFgAAAAAAAAAWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAABIAAAAAAAAAFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEgAAAAAAAAASAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "%%"
+					},
+					"AgAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEwAAAAAAAAATAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " load"
+					},
+					"BQAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFAAAAAAAAAAUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " cris"
+					},
+					"BQAAABkAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGQAAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "py_tag"
+					},
+					"BgAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAACQAAAAAAAAAJQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAACUAAAAAAAAAJgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Build & Run"
+				]
+			],
+			[
+				"Packages/Rust/Rust.sublime-build",
+				"Build & Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: all",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: origa",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 262.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/fahimsifnatul/django/python_funplay",
+		"/home/fahimsifnatul/django/python_funplay/python_funplay",
+		"/home/fahimsifnatul/django/python_funplay/python_funplay/__pycache__",
+		"/home/fahimsifnatul/django/python_funplay/templates"
+	],
+	"file_history":
+	[
+		"/home/fahimsifnatul/django/django_forms/home/serializers.py",
+		"/home/fahimsifnatul/django/django_forms/templates/index.html",
+		"/home/fahimsifnatul/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/fahimsifnatul/django/django_forms/django_forms/django_forms/settings.py",
+		"/home/fahimsifnatul/django/django_forms/django_forms/home/views.py",
+		"/home/fahimsifnatul/django/django_forms/django_forms/templates/index.html",
+		"/home/fahimsifnatul/django/django_forms/django_forms/django_forms/urls.py",
+		"/home/fahimsifnatul/django/django_forms/django_forms/home/forms.py",
+		"/home/fahimsifnatul/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+		"/home/fahimsifnatul/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/fahimsifnatul/django/python_funplay/Dockerfile",
+		"/home/fahimsifnatul/django/python_funplay/heroku.yml",
+		"/home/fahimsifnatul/django/python_funplay/requirements.txt",
+		"/home/fahimsifnatul/django/u_q/Dockerfile",
+		"/home/fahimsifnatul/django/u_q/heroku.yml",
+		"/home/fahimsifnatul/Desktop/github_token.txt",
+		"/home/fahimsifnatul/django/digital_contract/.git/MERGE_MSG",
+		"/home/fahimsifnatul/django/digital_contract/README.md",
+		"/home/fahimsifnatul/django/digital_contract/heroku.yml",
+		"/home/fahimsifnatul/django/digital_contract/Dockerfile",
+		"/home/fahimsifnatul/django/digital_contract/home/views.py",
+		"/home/fahimsifnatul/django/digital_contract/static/admin/js/inlines.js",
+		"/home/fahimsifnatul/django/digital_contract/account/views.py",
+		"/home/fahimsifnatul/django/digital_contract/templates/account.html",
+		"/home/fahimsifnatul/django/reminiscence/static/js/main.js",
+		"/home/fahimsifnatul/django/u_q/templates/index.html",
+		"/home/fahimsifnatul/django/u_q/static/js/main.js",
+		"/home/fahimsifnatul/django/u_q/static/css/main.css",
+		"/home/fahimsifnatul/django/digital_contract/digital_contract/settings.py",
+		"/home/fahimsifnatul/django/digital_contract_paper/templates/index.html",
+		"/home/fahimsifnatul/django/digital_contract_paper/digital_contract_paper/settings.py",
+		"/home/fahimsifnatul/django/digital_contract_paper/home/views.py",
+		"/home/fahimsifnatul/django/digital_contract_paper/digital_contract_paper/urls.py",
+		"/home/fahimsifnatul/testing.py",
+		"/home/fahimsifnatul/django/u_q/.git/MERGE_MSG",
+		"/home/fahimsifnatul/django/u_q/u_q/settings.py",
+		"/home/fahimsifnatul/django/u_q/home/views.py",
+		"/home/fahimsifnatul/django/u_q/u_q/urls.py",
+		"/home/fahimsifnatul/django/u_q/requirements.txt",
+		"/home/fahimsifnatul/django/AIShapeDetector/templates/index.html",
+		"/home/fahimsifnatul/django/u-q/pyvenv.cfg",
+		"/home/fahimsifnatul/django/u-q/bin/activate",
+		"/home/fahimsifnatul/django/u-q/bin/pip",
+		"/home/fahimsifnatul/django/u-q/lib/python3.8/site-packages/_virtualenv.pth",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/AIShapeDetector/.git/config",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/AIShapeDetector/AIShapeDetector/heroku.yml",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/AIShapeDetector/AIShapeDetector/Dockerfile",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/AIShapeDetector/AIShapeDetector/requirements.txt",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/AIShapeDetector/AIShapeDetector/settings.py",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/AIShapeDetector/AIShapeDetector/urls.py",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/AIShapeDetector/home/views.py",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/AIShapeDetector/templates/index.html",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/AIShapeDetector/static/js/main.js",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/AIShapeDetector/static/css/main.css",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/templates/index.html",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/static/js/main.js",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/AIShapeDetector/static/tensorflow/model.json",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/reminiscence/settings.py",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/reminiscence/urls.py",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/login/views.py",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/static/css/main.css",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/reminiscence/__init__.py",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/login/migrations/__init__.py",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/login/__init__.py",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/login/models.py",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/static/js/main (backup).js",
+		"/home/fahimsifnatul/Downloads/front_back/index.html",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence (backup)/static/js/main.js",
+		"/home/fahimsifnatul/Downloads/gelio/Gelio Greek - ReadMe.txt",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/login/admin.py",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/login/forms.py",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/SignUp/models.py",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/SignUp/views.py",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/SignUp/admin.py",
+		"/home/fahimsifnatul/Downloads/turnjs4/samples/steve-jobs/index.html",
+		"/home/fahimsifnatul/Downloads/turnjs4 (copy)/samples/steve-jobs/js/steve-jobs.js",
+		"/home/fahimsifnatul/Downloads/turnjs4 (copy)/extras/jquery.min.1.7.js",
+		"/home/fahimsifnatul/Downloads/turnjs4/samples/steve-jobs/pages/page5.html",
+		"/home/fahimsifnatul/Downloads/turnjs4/extras/jquery.min.1.7.js",
+		"/home/fahimsifnatul/Downloads/book_turning_pages/main.css",
+		"/home/fahimsifnatul/Downloads/book_turning_pages/main.js",
+		"/home/fahimsifnatul/Downloads/book_turning_pages/index.html",
+		"/home/fahimsifnatul/Downloads/book_turning_pages/main.sass",
+		"/home/fahimsifnatul/Downloads/turnjs4/samples/steve-jobs/js/steve-jobs.js",
+		"/home/fahimsifnatul/Downloads/turnjs4 (copy)/samples/steve-jobs/pages/page106.html",
+		"/home/fahimsifnatul/Downloads/turnjs4 (copy)/samples/steve-jobs/pages/page6.html",
+		"/home/fahimsifnatul/Downloads/turnjs4/samples/magazine/js/magazine.js",
+		"/home/fahimsifnatul/Desktop/book_turning_pages/index.html",
+		"/home/fahimsifnatul/Desktop/book_turning_pages/js/steve-jobs.js",
+		"/home/fahimsifnatul/Desktop/book turning pages/lib/hash.js",
+		"/home/fahimsifnatul/Desktop/book turning pages/lib/turn.min.js",
+		"/home/fahimsifnatul/Desktop/book turning pages/index.html",
+		"/home/fahimsifnatul/Downloads/turnjs4/samples/steve-jobs/pages/page30.html",
+		"/home/fahimsifnatul/Downloads/turnjs4/samples/steve-jobs/pages/page19.html",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/home/views.py",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/templates/home.html",
+		"/home/fahimsifnatul/Downloads/turnjs4/extras/jGestures-license.txt",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/static/fonts/test.html",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/static/check.css",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/templates/test.css",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/static/main.css",
+		"/home/fahimsifnatul/Jupyter_Notebook/django/reminiscence/reminiscence/templates/home.html",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/output.txt",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/input.txt",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/skeleton.cpp",
+		"/media/fahimsifnatul/GPMODEM/autorun.inf",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_latoken_div1div2_B.cpp",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_latoken_div1div2_A.cpp",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_725_div3_F.cpp",
+		"/home/fahimsifnatul/Desktop/Sifnatul/emails.txt",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_725_div3_D.cpp",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_725_div3_C.cpp",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_725_div3_B.cpp",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_725_div3_A.cpp",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_724_div2_C.cpp",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_696_div2_B.cpp",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_696_div2_A.cpp",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_697_div3_E.cpp",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_697_div3_C.cpp",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_697_div3_B.cpp",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_693_div3_A.cpp",
+		"/home/fahimsifnatul/Desktop/test.rs",
+		"/home/fahimsifnatul/Desktop/q8.cpp",
+		"/home/fahimsifnatul/Desktop/q4.c",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_694_div2_B.cpp",
+		"/home/fahimsifnatul/Desktop/Sifnatul/programming/cpp/oj/cf_690_div3_C.cpp",
+		"/home/fahimsifnatul/Downloads/test_input.txt",
+		"/home/fahimsifnatul/Documents/Zoom/2020-12-18 18.13.24 Fahim MD Sifnatul Hasnain's Zoom Meeting 91599731657/zoomver.tag"
+	],
+	"find":
+	{
+		"height": 51.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "python_funplay/settings.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3630,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "python_funplay/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 842,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 51.0
+	},
+	"input":
+	{
+		"height": 86.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 258.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "python_funplay.sublime-project",
+	"replace":
+	{
+		"height": 98.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 264.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
