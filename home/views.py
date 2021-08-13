@@ -4,7 +4,6 @@ from django.views import View
 from rest_framework.views import APIView
 from rest_framework.renderers import JSONRenderer, TemplateHTMLRenderer
 from rest_framework.response import Response
-import os
 from pathlib import Path
 from secrets import token_hex
 
