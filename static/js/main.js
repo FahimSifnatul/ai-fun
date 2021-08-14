@@ -1,4 +1,4 @@
-const menu_list  = ["image_to_text", "roots_of_polynomial_eq"];
+const menu_list  = ["image_to_text", "roots_of_polynomial_eq", "text_to_wordcloud"];
 
 // custom delay function
 function delay(ms) {

@@ -18,10 +18,6 @@ body{
 	top: 1vh;
 }
 
-#input_card_front, #input_card_back{
-	position: absolute;
-}
-
 #image_to_text_preview{
 	width: 250px;
 	height: 250px;

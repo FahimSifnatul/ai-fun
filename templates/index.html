@@ -51,6 +51,7 @@
             <div class="dropdown-menu">
               <span id="menu_image_to_text" class="dropdown-item" onclick="SET('image_to_text')">Image to Text</span>
               <span id="menu_roots_of_polynomial_eq" class="dropdown-item" onclick="SET('roots_of_polynomial_eq')">Roots of Polynomial eq</span>
+              <span id="menu_text_to_wordcloud" class="dropdown-item" onclick="SET('text_to_wordcloud')">Text to WordCloud</span>
             </div>
           </div>
         </div>
@@ -86,6 +87,18 @@
             </form>
           </div>
 
+          <!-- Text to WordCloud -->
+          <div id="input_text_to_wordcloud" style="display: none;">
+            <form id="form_text_to_wordcloud" method="POST" name="form_text_to_wordcloud"> {% csrf_token %}
+              <div class="form-group">
+                {{form_text_to_wordcloud.text_to_wordcloud}}
+               </div> 
+              <div class="form-group">
+                <input class="form-control btn" type="submit" value="submit">
+              </div>
+            </form>
+          </div>
+
         </div>
 
       </div>
@@ -108,6 +121,11 @@
           <div id="output_roots_of_polynomial_eq" style="display: none;">
             <textarea id="roots" class="form-control" rows="12"></textarea>
           </div>  
+
+          <!-- Text to WordCloud -->
+          <div id="output_text_to_wordcloud" style="display: none;width:100%;height:100%;">
+            <img id="wordcloud" class="rounded-lg" src="{% static 'images/no_wordcloud.gif' %}" style="width:100%;height:100%;">
+          </div> 
         </div>
         
       </div>
@@ -121,17 +139,37 @@
   <script>alert('Something went wrong');</script>
 {% elif image_to_text %}
   <script>
-    SET('image_to_text');
+    SET('image_to_text'); // To set menu name and contents (input & output)
 
     var image_to_text_text = "{{image_to_text_text}}";
     $("#image_to_text_text").html(image_to_text_text);
   </script>
+
 {% elif roots_of_polynomial_eq %}
   <script>
     SET('roots_of_polynomial_eq');
 
     var roots = "{{roots}}";
     $("#roots").html(roots);
+  </script>
+
+{% elif text_to_wordcloud %}
+  <script>
+    SET('text_to_wordcloud');
+
+    var src = "media/{{wordcloud}}";
+    $("#wordcloud").attr("src", src);
+    AJAX();
+
+    // To delete the wordcloud image to keep server storage neat and clean
+    async function AJAX() 
+    {
+      await delay(250);
+      $.ajax({
+        type: "POST",
+        data: {"delete_media_image" : "{{wordcloud}}"}
+      });
+    }
   </script>
 {% endif %}
 </html>
