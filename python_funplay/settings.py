@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-6+)4_irrxj&vyiv%z6c%oan^(_zvq0zho6ed#rr^ro(h2h6v*9'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['python-funplay.herokuapp.com', '127.0.0.1', '.localhost', '[::1]']
 
